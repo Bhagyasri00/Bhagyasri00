@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **bhagyasrisambharouthu@gmail.com**
 
-- ⚡ Fun fact **I have a passion for culinary arts and enjoy experimenting with new recipes in the kitchen. From baking bread to crafting gourmet dishes, cooking is my creative outlet!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhagyasri-sambharouthu-05590718b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagyasri-sambharouthu-05590718b/" height="30" width="40" /></a>
