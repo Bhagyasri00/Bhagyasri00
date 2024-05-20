@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagyasri Sambharouthu</h1>
-<h3 align="center">From Lab to Data: Leveraging Biotechnology Research Knowledge in Data Science Exploration</h3>
+<h3 align="center">Leveraging Research Knowledge in Data Science Exploration</h3>
 
 - 🌱 I’m currently learning **Exploring machine learning techniques and diving deeper into data visualization and Data Analysis.**
 
