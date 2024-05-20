@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Exploring machine learning techniques and diving deeper into data visualization and Data Analysis.**
 
-- 👨‍💻 All of my projects are available at [Check out my project repositories to see my journey into the world of data science. I'm constantly working on exciting projects and expanding my skill set.](Check out my project repositories to see my journey into the world of data science. I'm constantly working on exciting projects and expanding my skill set.)
+- 👨‍💻 All of my projects are available at my project repositories. I'm constantly working on exciting projects and expanding my skill set.
 
 - 💬 Ask me about **Anything related to data science or machine learning! I'm passionate about these topics and always eager to discuss and learn new things.**
 
